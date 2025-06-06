@@ -1,12 +1,12 @@
 # YAZIYLA - Sayıyı Yazıya Çeviren Excel VBA Fonksiyonu  
 
-## 📌 Açıklama
+## ℹ️ Açıklama
 
 `YAZIYLA`, bir sayıyı Türkçe yazıya çeviren, yalnızca tam sayılarla çalışan basit ve etkili bir VBA (Visual Basic for Applications) fonksiyonudur. Excel, Access ve diğer VBA destekli uygulamalarda kullanılabilir. Türkçe Excel 2021'de denenmiştir.
 ![image](https://github.com/user-attachments/assets/21cadf87-fd54-4488-a085-35317247efcc)
 
 
-## YAZIYLA fonksiyonunu kullanma
+## 💻 YAZIYLA fonksiyonunu kullanma
 - `yaziyla.bas` dosyasındaki kodları kopyalayın.
 -  Excelde dosya açıkken <kbd>ALT+F11</kbd> tuşlarına basın (yada Şerit menüden **Geliştirici / Visual Basic** tıklayın)
 - VBA Editöründe menüden Insert / Module tıklayın
@@ -19,7 +19,7 @@
 - `-922,337,203,685,477` ile `922,337,203,685,477` arasındaki sayılar geçerlidir.
 - 15 basamaktan büyük sayılarda ve sayı olmayan değerlerde `#HATA!` sonucunu verir.
   
-## 💻 Kullanım
+## 💻 Excel Hücrelerinde Kullanımı
  `=YAZIYLA(Sayı ya da Hücre adresi)`
  
 ### Örnek
@@ -28,7 +28,7 @@
  =YAZIYLA(1453)
 ```
 
-## YAZIYLA fonksiyonunu tüm excel dosyalarında kullanma.
+## 💻 YAZIYLA fonksiyonunu tüm excel dosyalarında kullanma.
 - Bu işlemler bir defa yapılacaktır.
 - Yeni bir excel dosyası oluşturun.
 - Üstteki açıklmalarla VBA editörüne kodları ekleyin.
@@ -43,15 +43,15 @@
 - Tamam'ı tıklayın.
 - Artık her excel dosyasında YAZIYLA fonksiyonunu başka bir işleme gerek kalmadan rahatlıkla kullanabilirsiniz.
 
-## Lisans
+## 🧾 Lisans
 
 Bu proje GPL 3.0 Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
 
-## Katkı
+## 🤝 Katkı
 
 Katkılarınız memnuniyetle karşılanır! Eğer özellik eklemek, hataları düzeltmek veya kodu geliştirmek isterseniz, bir çekme isteği açmaktan çekinmeyin.
 
-## İletişim
+## 📧 İletişim
 
 Mesut Akcan\
 **Email**: <makcan@gmail.com>\
