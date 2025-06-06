@@ -19,7 +19,7 @@
 - `-922,337,203,685,477` ile `922,337,203,685,477` arasındaki sayılar geçerlidir.
 - 15 basamaktan büyük sayılarda ve sayı olmayan değerlerde `#HATA!` sonucunu verir.
   
-## 💻 Excel Hücrelerinde Kullanımı
+## 𝄜 Excel Hücrelerinde Kullanımı
  `=YAZIYLA(Sayı ya da Hücre adresi)`
  
 ### Örnek
@@ -51,7 +51,7 @@ Bu proje GPL 3.0 Lisansı altında lisanslanmıştır. Daha fazla bilgi için `L
 
 Katkılarınız memnuniyetle karşılanır! Eğer özellik eklemek, hataları düzeltmek veya kodu geliştirmek isterseniz, bir çekme isteği açmaktan çekinmeyin.
 
-## 📧 İletişim
+## ✉️ İletişim
 
 Mesut Akcan\
 **Email**: <makcan@gmail.com>\
